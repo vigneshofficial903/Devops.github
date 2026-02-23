@@ -1,0 +1,2 @@
+Welcome git test2.txt 
+Errors makes clever
